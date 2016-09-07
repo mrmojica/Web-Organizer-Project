@@ -1,7 +1,13 @@
 {
+<<<<<<< HEAD
   "name": "Web-Organizer-Project",
   "version": "0.0.1",
   "description": "A full-stack template for Thinkful students",
+=======
+  "name": "web-organizer-project",
+  "version": "0.0.1",
+  "description": " ",
+>>>>>>> a5611e0338a1e072d0b10b4734ba346ae436ab3c
   "main": "index.js",
   "main:server": "server/index.js",
   "main:client": "client/js/index.js",
